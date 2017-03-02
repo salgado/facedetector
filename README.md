@@ -1,2 +1,2 @@
-# facedetextor
+# facedetector
 face detector using opencv
